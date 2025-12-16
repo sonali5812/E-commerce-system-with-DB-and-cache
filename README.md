@@ -52,4 +52,6 @@ python -m uvicorn app.main:api_ins --reload
 <img width="1909" height="1088" alt="Screenshot 2025-12-16 200511" src="https://github.com/user-attachments/assets/3c29ca97-6af4-4ee0-bff4-2d3cfba91440" />
 <img width="1879" height="1108" alt="Screenshot 2025-12-16 200344" src="https://github.com/user-attachments/assets/f26c8e99-a0b2-4307-9ec2-ae7079ac8844" />
 
+# After Restarting uvicorn server, data source is DB not redis
+<img width="1906" height="1086" alt="Screenshot 2025-12-16 202359" src="https://github.com/user-attachments/assets/7582e341-3434-432a-b6f3-a86b3c3d1e9e" />
 
